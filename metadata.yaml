@@ -1,0 +1,31 @@
+_repo: Kulkuri-Kertomuksia_49926
+contributor:
+  translator:
+    agent_name: Suomalainen, K.
+    gutenberg_agent_id: '45616'
+    url: http://www.gutenberg.org/2009/agents/45616
+creator:
+  author:
+    agent_name: Gorky, Maksim
+    aliases:
+    - Gorky, Maxim
+    - Peshkov, Alexey Maximiovich
+    - Горький, Максим
+    birthdate: 1868
+    deathdate: 1936
+    gutenberg_agent_id: '348'
+    url: http://www.gutenberg.org/2009/agents/348
+    wikipedia: http://en.wikipedia.org/wiki/Maxim_Gorky
+description: ''
+gutenberg_issued: '2015-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49926'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Kulkuri
+
+  Kertomuksia'
+url: http://www.gutenberg.org/ebooks/49926
