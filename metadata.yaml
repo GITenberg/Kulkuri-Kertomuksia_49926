@@ -1,9 +1,13 @@
 _repo: Kulkuri-Kertomuksia_49926
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Suomalainen, K.
     gutenberg_agent_id: '45616'
     url: http://www.gutenberg.org/2009/agents/45616
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gorky, Maksim
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/348
     wikipedia: http://en.wikipedia.org/wiki/Maxim_Gorky
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49926#Kulkuri-Kertomuksia
 gutenberg_issued: '2015-09-10'
 gutenberg_type: Text
 identifiers:
